@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "5f300f4abcc08820c93f3d7a"
+  },
+  "nome": "José Quintin",
+  "usuario": "02735025144",
+  "email": "josequintino4@hotmail.com.br",
+  "senha": "$2a$10$4I3YE2Q/SZ2hdyrsoZFqTevm6ksnLiSiAYvXbF0BylJ1aez2pKDlW",
+  "dataUltimaAlteracao": {
+    "$date": "2020-08-09T14:59:22.308Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f30159e17ff7e282faa7100"
+  },
+  "nome": "Jamille Alves",
+  "usuario": "087547458541",
+  "email": "jamille.alves.1948@gmail.com",
+  "senha": "$2a$10$5CA0Zs1YAEhp0NRxVfixNe4ZI1OEbO1RAt9i7OHjfiBhrtg332xFq",
+  "dataUltimaAlteracao": {
+    "$date": "2020-08-09T15:26:22.934Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3016633e8f6d28e699e2b6"
+  },
+  "nome": "Hassyah Havivah",
+  "usuario": "897845211",
+  "email": "jamille.alves.1948@hotmail.com",
+  "senha": "$2a$10$.G9x8PJkVVwsce7ICOkTxOBZPr8pPZGL7K75FocCz7JG8G4fTjYBi",
+  "dataUltimaAlteracao": {
+    "$date": "2020-08-09T15:29:39.512Z"
+  },
+  "__v": 0
+}]
